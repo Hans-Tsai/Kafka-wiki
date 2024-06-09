@@ -27,3 +27,8 @@ You need to change connString in OpenSearchConsumer.java to your openSearch serv
 run OpenSearchConsumer.java
 ```
 
+### stream-wikimedia
+```sh
+run WikimediaStreamsApp.java
+```
+
