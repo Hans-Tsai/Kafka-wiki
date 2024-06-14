@@ -21,7 +21,7 @@ make localSetup
 run WikimediaChangesProducer.java
 ```
 ### consumer-openSearch
-We recommend to run the openSearch using the container or free [openSearch|https://bonsai.io] service.
+We recommend to run the openSearch using the container or free [openSearch](https://bonsai.io) service.
 You need to change connString in OpenSearchConsumer.java to your openSearch service.
 ```sh
 run OpenSearchConsumer.java
