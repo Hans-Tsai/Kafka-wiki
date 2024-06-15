@@ -5,6 +5,8 @@ This is a companion repository for the [Kafka for Beginners course](https://link
 ## Content
 - Wikimedia Producer
 - OpenSearch Consumer
+- Kafka Stream
+- Grafana
 
 ## How to start
 ```sh
